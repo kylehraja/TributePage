@@ -1,4 +1,4 @@
-# TributePage
+# Tribute Page
 A tribute page of a fictional hero. The web page was built using HTML and CSS. This project focuses on using principles of the box model.
 
 Tribute page:

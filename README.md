@@ -1,5 +1,5 @@
 # TributePage
-A tribute page showing a timeline of a person. The web page was built using HTML and CSS. This project focuses on using the box model.
+A tribute page of a fictional hero. The web page was built using HTML and CSS. This project focuses on using principles of the box model.
 
 Tribute page:
 ![image](https://github.com/kylehraja/TributePage/assets/140476247/ae39bab5-1e7d-40b8-896d-d13a74fddfdf)

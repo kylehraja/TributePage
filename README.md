@@ -9,7 +9,7 @@ Timeline, quote, and link for the hero's wiki page:
 
 Set up to run web page:
 
-1) Download and unzip the CafeMenu.zip file.
+1) Download and unzip the TributePage.zip file.
 2) Open in vscode.
 3) Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 4) Open the index.html and run the code (Windows shortcut key: ALT+L+O).
